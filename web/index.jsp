@@ -8,7 +8,7 @@
     <body>
         <h1>Salary Calculator</h1>
         
-        <form name="demoForm" action="results.jsp" method="post">
+        <form name="salaryform" action="results.jsp" method="post">
             <table> 
                 <tbody>
                     <tr>
