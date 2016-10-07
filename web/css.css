@@ -1,0 +1,35 @@
+body{background-color:#1e90ff}
+
+header{margin-top:0px;
+       overflow:hidden;
+       padding: 200px;
+}
+
+h1 {text-align:center;
+	color:#000000;
+	font-size: 3em;
+	font-weight:bold;
+	font-variant:small-caps;
+}
+table {margin-left: auto;
+       margin-right: auto;;
+       background-color: white;
+       }
+
+td { text-align:center; 
+     height:90px; 
+     vertical-align: middle; 
+     padding:15px;
+     font-size: 2em
+ }
+
+input {height: 40px;
+       font-size: 1em;
+ }
+ 
+ div
+{
+    text-align: center;
+    font-size: medium;
+    
+}​
